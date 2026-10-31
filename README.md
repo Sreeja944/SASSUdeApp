@@ -1,0 +1,15 @@
+## Course Website
+
+A responsive course website built using HTML, CSS, SASS.
+
+### Features
+- Responsive design
+- Product listing
+- Mobile-friendly layout
+
+### Technologies Used
+HTML | CSS | SASS
+
+### 🎬 Project Demo
+
+![Project Demo](./screenshots/demo.gif)
